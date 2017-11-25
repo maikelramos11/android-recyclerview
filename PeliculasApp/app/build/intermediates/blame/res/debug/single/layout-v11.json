@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\PeliculasApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Kevin\\.android\\build-cache\\77ad7730fa168777bf8e5f1e6f937f8ef2435863\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]

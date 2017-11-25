@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PeliculasApp</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="name_movie">Titulo de la Pelicula</string>
+    <string name="movie_details">Detalles de la Pelicula</string>
+    <string name="plot">Sipnosis</string>
+    <string name="rating">Opiniones de los Usuarios</string>
+    <string name="release">Fecha de Lanzamiento</string>
+    <string name="pref_sort_order_label">Orden de Clasificacion</string>
+    <string name="pref_sort_order_key">ordenClasificacion</string>
+    <string name="pref_most_popular">Mas populares</string>
+    <string name="pref_highest_rated">Mejor Valoradas</string>
+</resources>
